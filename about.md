@@ -3,27 +3,10 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I am a Ph.D. Scholar at [IIIT Delhi](https://iiitd.ac.in/). I work with [Dr. Rajiv Ratn Shah](http://midas.iiitd.edu.in/team/rajiv-ratn-shah.html) at [MIDAS Lab](http://midas.iiitd.edu.in/). I received my B.Tech in Computer Science and Engineering from [BML Munjal University](https://www.bmu.edu.in/). 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I currently work with large scale noisy multi labeled data and methods to efficiently learn from such data. I have also worked with Speech Recognition and Emotion Detection. Please have a look at my publications for more details. In my spare time, I read about and study mathematics and spend time reducing my bookmarks.
 
-There are currently two themes built on Poole:
+I love sports and actively play Cricket, Table Tennis, and Badminton. I am active on [Twitter](https://twitter.com/mohitsharmaj29).
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Please get in touch if you want to collaborate with me on some interesting research opportunities. My email ID is mohits [at] iiid [dot] ac [dot] in.
