@@ -6,7 +6,7 @@ title: Publications
 Here is a list of my publications that I was involved in with a brief description. I may write more detailed blog posts about some of them. Otherwise, all of these point to the main publication site.
 
 [SpotFake+: A Multimodal Framework for Fake News Detection via Transfer Learning, AAAI 2020 Student Abstract.](https://www.aaai.org/Papers/AAAI/2020GB/SA-SinghalS.676.pdf)
-First, work on multimodal fake news detection using images and text using XLNet and VGG pre-trained networks.
+First work on multimodal fake news detection using images and text using XLNet and VGG pre-trained networks.
 
 [Analysis of Parliamentary Debate Transcripts Using Community-Based Graphical Approaches, AAAI 2020 Student Abstract](https://www.aaai.org/Papers/AAAI/2020GB/SA-BhavanA.685.pdf) Sentiment analysis on UK Parliament debate transcripts using graphs methods. 
 
