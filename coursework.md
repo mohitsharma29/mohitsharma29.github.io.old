@@ -18,5 +18,6 @@ It introduced essential concepts like Bayesian Decision Theory, MLE, MAP, Dimens
 #### Multimedia Computing and Applications (CSE563)
 
 ## Courses Taken in Personal Time
-
+<!---
 #### (Ongoing) [Probablistic Machine Learning, Tübingen Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
+-->
