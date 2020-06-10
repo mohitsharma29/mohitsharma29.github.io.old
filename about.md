@@ -9,4 +9,8 @@ I currently work with large scale noisy multi labeled data and methods to effici
 
 I love sports and actively play Cricket, Table Tennis, and Badminton. I am active on [Twitter](https://twitter.com/mohitsharmaj29).
 
-Please get in touch if you want to collaborate with me on some interesting research opportunities. My email ID is mohits [at] iiid [dot] ac [dot] in.
+Please get in touch if you want to collaborate with me on some interesting research opportunities. My email ID is mohits [at] iiitd [dot] ac [dot] in.
+
+# News
+
+- [10/6/2020] I will be attending the [EEML Virtual Summer School](https://www.eeml.eu/home) from 1st to 9th of July. 
