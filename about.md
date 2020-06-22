@@ -13,4 +13,5 @@ Please get in touch if you want to collaborate with me on some interesting resea
 
 # News
 
+- [17/6/2020] I will be a volunteer for ICML 2020.
 - [10/6/2020] I will be attending the [EEML Virtual Summer School](https://www.eeml.eu/home) from 1st to 9th of July. 

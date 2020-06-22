@@ -21,3 +21,4 @@ It introduced essential concepts like Bayesian Decision Theory, MLE, MAP, Dimens
 <!---
 #### (Ongoing) [Probablistic Machine Learning, Tübingen Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
 -->
+#### [Mathematics of Machine Learning Summer Scool](http://mathofml.cs.washington.edu/) (Ongoing)
