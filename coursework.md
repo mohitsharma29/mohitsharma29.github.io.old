@@ -7,6 +7,9 @@ Here is a list of courses that I have taken during my Ph.D. and the ones for whi
 
 ## Courses Taken at IIIT Delhi
 
+#### Bayesian Machine Learning
+Currently taking this course. 
+
 #### Convex Optimization (MATH 3XX)
 This course was mainly an introduction of convex sets, functions, and solving convex optimization problems. 
 
@@ -15,10 +18,10 @@ It introduced essential concepts like Bayesian Decision Theory, MLE, MAP, Dimens
 
 ## Teaching Assistantship at IIIT Delhi
 
+#### Game Theory (ECO311)
 #### Multimedia Computing and Applications (CSE563)
 
-## Courses Taken in Personal Time
-<!---
+<!---## Courses Taken in Personal Time
 #### (Ongoing) [Probablistic Machine Learning, Tübingen Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
--->
-#### [Mathematics of Machine Learning Summer Scool](http://mathofml.cs.washington.edu/) (Ongoing)
+
+#### [Mathematics of Machine Learning Summer School](http://mathofml.cs.washington.edu/) (Ongoing) -->
