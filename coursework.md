@@ -7,17 +7,15 @@ Here is a list of courses that I have taken during my Ph.D. and the ones for whi
 
 ## Courses Taken at IIIT Delhi
 
-#### Bayesian Machine Learning
-Currently taking this course. 
-
-#### Convex Optimization (MATH 3XX)
-This course was mainly an introduction of convex sets, functions, and solving convex optimization problems. 
-
+#### Independent Study: Topics In Bayesian Machine Learning
+#### Theories of Deep Learning (CSE516/ECE559)
+#### Bayesian Machine Learning (ECE551)
+#### Convex Optimization (MATH377/577)
 #### Statistical Machine Learning (CSE342/CSE542)
-It introduced essential concepts like Bayesian Decision Theory, MLE, MAP, Dimensionality Reduction, Neural Networks, Bagging, Boosting, and Clustering.
 
 ## Teaching Assistantship at IIIT Delhi
 
+#### Convex Optimization (MATH377/577)
 #### Game Theory (ECO311)
 #### Multimedia Computing and Applications (CSE563)
 
