@@ -7,11 +7,13 @@ Here is a list of courses that I have taken during my Ph.D. and the ones for whi
 
 ## Courses Taken at IIIT Delhi
 
+#### Markov Decision Processes (ECO541)
+#### Advanced Machine Learning (CSE642)
 #### Independent Study: Topics In Bayesian Machine Learning
 #### Theories of Deep Learning (CSE516/ECE559)
 #### Bayesian Machine Learning (ECE551)
-#### Convex Optimization (MATH377/577)
-#### Statistical Machine Learning (CSE342/CSE542)
+#### Convex Optimization (MATH577)
+#### Statistical Machine Learning (CSE542)
 
 ## Teaching Assistantship at IIIT Delhi
 
