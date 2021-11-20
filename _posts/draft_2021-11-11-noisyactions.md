@@ -11,6 +11,7 @@ The project started when I was still an Research Assistant with Dr. Rajiv, my ad
 
 ## Covid-19 and the great Grind/Slog
 
+The editing works on ipad.
 ## First Reject
 
 ## Second Reject/Short Paper Accept
