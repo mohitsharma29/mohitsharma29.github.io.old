@@ -10,3 +10,5 @@ Here I list down articles and resources which I found interesting and useful. I 
 - [An Overview of Multi-Task Learning in Deep Neural Networks](https://ruder.io/multi-task/), by Sebastian Ruder. 
 
 - Some of the best explanations of VAEs on the internet: [https://www.borealisai.com/en/blog/tutorial-5-variational-auto-encoders/](https://www.borealisai.com/en/blog/tutorial-5-variational-auto-encoders/), [https://www.youtube.com/watch?v=uaaqyVS9-rM&ab_channel=DataScienceCourses](https://www.youtube.com/watch?v=uaaqyVS9-rM&ab_channel=DataScienceCourses)
+
+- Manuel Blum's advice to a [https://www.cs.cmu.edu/~mblum/research/pdf/grad.html](Beginning Graduate Student)

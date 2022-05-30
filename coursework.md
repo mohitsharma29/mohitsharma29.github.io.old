@@ -7,6 +7,8 @@ Here is a list of courses that I have taken during my Ph.D. and the ones for whi
 
 ## Courses Taken at IIIT Delhi
 
+#### Independent study on Fairness in Semi-Supervised Learning
+#### Research Methods
 #### Markov Decision Processes (ECO541)
 #### Advanced Machine Learning (CSE642)
 #### Independent Study: Topics In Bayesian Machine Learning
